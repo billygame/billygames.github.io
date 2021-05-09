@@ -1,0 +1,41 @@
+body{
+}
+   div.pudlo{
+	   width: 1140px;
+	   margin: auto;
+	   padding: 0 15px;
+   }
+   div.main-con{
+	   width: 70%;
+	   float: left;
+   }
+   div.sidebar{
+	   width: 30%;
+	   float: left;
+	   text-align: 50px;
+	   background: rgba( 147, 1, 254 , 0.4);
+   }
+   div.content{
+	   overflow: auto;
+   }
+   article, side, header, section{
+	   display: block;
+   }
+ .tile5
+{
+	margin: 10px;
+	width: 420px;
+	height: 244px;
+	background: rgba( 147, 1, 254 , 0.4);
+	text-align: justify;
+	padding: 30px;
+	float: left;
+}
+#logo
+{
+	font-size: 35px;
+	margin: 40px;
+	background: rgba( 147, 1, 254 , 0.4);
+	text-align: center;
+	width: 600px;
+}
